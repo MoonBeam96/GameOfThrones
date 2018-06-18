@@ -1,0 +1,103 @@
+body {
+    float: left;
+}
+
+h1 {
+    font-family: verdana;
+    font-size: 18px;
+    color: antiquewhite;
+    clear: both;
+}
+
+p {
+    font-family: verdana;
+    font-size: 18px;
+    float: left;
+    padding: 15px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    clear: left;
+}
+
+#noticia {
+    padding: 300px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    clear: both;
+}
+
+#centro {
+    padding: 500px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+
+
+
+#imgcenter {
+    display: block;
+    float: left;
+    padding: 25px;
+    clear: right;
+    
+}
+
+#img1 {
+    
+    display: block;
+    float: left;
+    padding: 25px;
+    clear: right;
+}
+
+#img2 {
+    
+    display: block;
+    float: left;
+    padding: 25px;
+    clear: right;
+}
+#img3 {
+    
+    display: block;
+    float: left;
+    padding: 25px;
+    clear: right;
+    
+}
+#img4 {
+    
+    display: block;
+    float: left;
+    padding: 25px;
+    clear: right;
+}
+
+#img5 {
+    
+    display: block;
+    float: left;
+    padding: 25px;
+    clear: right;
+    
+}
+
+#img6 {
+    
+    display: block;
+    float: left;
+    padding: 25px;
+    clear: right;
+    
+}
+
+form {
+    font-family: verdana;
+    color: antiquewhite;
+    float: left;
+    clear: both;
+}
+
+
